@@ -1,6 +1,6 @@
-# 📦 Structure des dossiers et fichiers pour nnU-Net v2
+# Structure des dossiers et fichiers pour nnU-Net v2
 
-## 📁 Arborescence des répertoires
+## Arborescence des répertoires
 
 ```
 nnUNet_preprocessed/
@@ -17,7 +17,7 @@ nnUNet_results/            # Résultats des entraînements
 
 ---
 
-## 🗂️ Nom des fichiers attendus
+## Nom des fichiers attendus
 
 - **imagesTr/** :
   ```
@@ -38,7 +38,7 @@ nnUNet_results/            # Résultats des entraînements
 
 ---
 
-## ✅ Contraintes techniques
+## Contraintes techniques
 
 Ces contraintes sont réglées par le setup_data_nnunet.ipynb.
 
