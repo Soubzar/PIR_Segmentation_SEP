@@ -1,0 +1,12 @@
+{
+  "channel_names": {
+    "0": "Flair"
+  },
+  "labels": {
+    "background": 0,
+    "lesion": 1
+  },
+  "numTraining": 50,
+  "file_ending": ".png",
+  "overwrite_image_reader_writer": "nnunet.io.PNGReaderWriter"
+}
